@@ -1,2 +1,3 @@
 # ReactReduxBookSelector
-Simple React/Redux web application that selects a book of a list and shows it's details
+
+Simple React/Redux web application that renders a book list and shows one's details when selected
